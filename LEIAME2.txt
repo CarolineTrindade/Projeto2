@@ -1,2 +1,3 @@
 verde claro
 verde escuro
+cinza claro
